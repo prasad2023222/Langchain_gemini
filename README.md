@@ -1,4 +1,3 @@
-
 # LangChain Gemini Project
 
 A LangChain-based project featuring a FastAPI server and a Streamlit chatbot application, both powered by Google's Gemini AI model.
